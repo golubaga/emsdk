@@ -59,7 +59,7 @@
     "version": "tag-e%tag%",
     "bitness": 32,
     "append_bitness": false,
-    "windows_url": "https://github.com/kripken/emscripten-fastcomp/archive/%tag%.zip",
+    "windows_url": "git://github.com/kripken/emscripten-fastcomp/archive/%tag%.zip",
     "unix_url": "https://github.com/kripken/emscripten-fastcomp/archive/%tag%.tar.gz",
     "windows_clang_url": "https://github.com/kripken/emscripten-fastcomp-clang/archive/%tag%.zip",
     "unix_clang_url": "https://github.com/kripken/emscripten-fastcomp-clang/archive/%tag%.tar.gz",
